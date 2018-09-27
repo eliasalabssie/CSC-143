@@ -2,7 +2,8 @@
 //Elias Alabssie
 // homework #1,chapter 8
  
-
+/*this repo solves problems on the book called "back to basics: building block of java
+"*/ 
 public class Line {
 		private Point startingPoint;
 		private Point endingPoint;
